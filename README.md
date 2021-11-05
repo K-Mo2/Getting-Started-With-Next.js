@@ -10,7 +10,7 @@ This is a simiple project to practice Next.js
 2- React.js
 
 
-## Skills prcticed
+## Skills practiced
 
 1- Routing with Next.js
 
