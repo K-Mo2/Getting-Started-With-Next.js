@@ -1,5 +1,2 @@
-Home.module.css
-Home.module.css
-favicon.ico
-vercel.svg
-linguist-detectable=false
+* linguist-vendored
+*.js linguist-vendored=false
